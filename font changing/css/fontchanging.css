@@ -1,0 +1,17 @@
+ h1{
+     font-family:a calling;
+}
+
+@font-face{
+      font-family:newfont;
+     src:url(font/A\ cuchillda\ no.ttf);
+}
+
+#i{
+  font-family:Algerian;
+}
+
+p{
+   font-family:newfont;
+}
+
